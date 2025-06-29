@@ -24,9 +24,9 @@ body {
 }
 
 .item {
-  background: #ffffff;
+  background: #f6f6fe;
   padding: 24px;
-  border-radius: 4px;
+  border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 
   display: flex;
@@ -104,7 +104,7 @@ body {
 }
 
 .wrap {
-  background-color: #f6f6fe;
+  background-color: #ffffff;
   padding: 24px;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
